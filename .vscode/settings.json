@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/d1fb0d12-0b53-48d2-adee-e1fe2e4acf6c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Blog-App-by-Akshat",
+    "appService.deploySubpath": "."
+}
